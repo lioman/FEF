@@ -1,7 +1,7 @@
 # NG-Rosetta Project
 
 ## Overview
-This series of projects has been a labor of love for the past 6 months or so. It originally started as a presentation for a series of internal conferences and was built to demonstrate the various changes requred to evolve an AngularJS Application to Angular.
+This series of projects has been a labor of love for the past 6 months or so. It originally started as a presentation for a series of internal conferences and was built to demonstrate the various changes required to evolve an AngularJS Application to Angular.
 
 The end result is four seperate projects, each representing a different stage in the evolution and (hopefully) using the best practices for the target Angular version.
 
